@@ -27,7 +27,7 @@
 }
 
 .logo {
-    background-image: url("assets/amazon_logo.png"); /* Fixed Path */
+    background-image: url("items/amazon_logo.png"); /* Fixed Path */
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -254,7 +254,7 @@
 
 /* hero-section */
 .hero{
-    background-image: url(assets/hero_image.jpg);
+    background-image: url(items/hero_image.jpg);
     background-size: cover;
     height: 400px;
     display: flex;
@@ -378,7 +378,7 @@ footer {
 }
 
 .footer-logo {
-    background-image: url("assets/amazon_logo.png"); /* Update path */
+    background-image: url("items/amazon_logo.png"); /* Update path */
     background-size: contain;
     background-repeat: no-repeat;
     height: 30px;
