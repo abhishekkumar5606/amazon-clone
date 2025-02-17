@@ -17,7 +17,6 @@ A **fully responsive** Amazon clone built using **HTML, CSS, and JavaScript**, r
 ## 🛠️ Technologies Used
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
 - **FontAwesome (Icons)**
 
 ## 📂 Folder Structure
